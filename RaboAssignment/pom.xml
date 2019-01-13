@@ -117,7 +117,7 @@
 				</configuration>
 			</plugin>
 			<!-- Code Quality Check-Dependencies -->
-			<plugin>
+			<!-- <plugin>
 				<groupId>org.codehaus.mojo</groupId>
 				<artifactId>findbugs-maven-plugin</artifactId>
 				<version>3.0.3</version>
@@ -134,7 +134,7 @@
 						</configuration>
 					</execution>
 				</executions>
-			</plugin>
+			</plugin> -->
 		</plugins>
 		<finalName>RaboAssignment</finalName>
 	</build>
