@@ -1,0 +1,11 @@
+ReferenceID,Description,Transaction Status,Duplicate Reference Count
+167875,Tickets from Erik de Vries,FAILED,-
+130498,duplicate_transaction,DUPLICATED,2
+165102,Tickets for Rik TheuÃŸ,FAILED,-
+,,,
+,,,
+DUPLICATE RECORDS,,,
+,,,
+ReferenceID,Description,Transaction Status,Duplicate Reference Count
+130498,Tickets for me,FAILED,-
+130498,Tickets for Peter TheuÃŸ,PASSED,-
